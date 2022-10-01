@@ -44,6 +44,13 @@ body {
   text-align: center;
 }
 
+.light-blue {
+  background-color: lightblue;
+  width: 50%;
+  border-radius: 5px;
+  text-align: center;
+}
+
 .cyan {
   background-color: cyan;
   width: 50%;
